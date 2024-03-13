@@ -6,6 +6,13 @@
     "miniprogram": {
       "list": [
         {
+          "name": "pages/playlist/playlist",
+          "pathName": "pages/playlist/playlist",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
           "name": "pages/blog-comment/blog-comment",
           "pathName": "pages/blog-comment/blog-comment",
           "query": "blogid=2da1518365e9b2d50134ad6c39331228",
